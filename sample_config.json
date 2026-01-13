@@ -1,0 +1,6 @@
+{
+    "storage_public": true,
+    "open_ports": [22, 443],
+    "admin_access": true,
+    "encryption_enabled": false
+}
